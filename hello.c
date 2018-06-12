@@ -4,9 +4,9 @@ int main() {
 
   char nome[100];
 
-  scanf("%s, nome");
+  scanf("%s", nome);
 
-  printf("hello %s\n, nome");
+  printf("hello %s\n", nome);
 
   return 0;
 }
